@@ -2,7 +2,9 @@ Dec 25, 2022
 
 By: Jatin Jain 101184197
 
-Here are my labs from a 3rd year real time systems course. Each lab description has been including below.
+Here are my labs from a 3rd year real time systems course using the MSP432P401R SimpleLink™ Microcontroller LaunchPad™ (MSP‑EXP432P401R) to learn about real-time embedded systems 
+
+Each lab description has been including below.
 
 LAB 3 - Basic Input/Output (interfacing with LEDs and switches)
 6 - Continuously poll the switches (with debouncing).
